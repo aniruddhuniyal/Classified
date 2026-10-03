@@ -1,12 +1,12 @@
 <div align="center">
 
-# Classified
+# index
 
 > A classified index of my projects.
 
 This repository is used to **classify, organize, and keep track of my projects** across different domains.
 
-Rather than containing the projects themselves, `Classified` acts as a personal index for organizing the things I build.
+Rather than containing the projects themselves, `index` acts as a showroom for organizing the things I build.
 
 ## Categories
 
@@ -26,7 +26,7 @@ Some projects may overlap multiple domains, but the classification system keeps 
 
 ---
 
-> **CLASSIFIED — PROJECT INDEX**
+> **index**
 >
 > Organizing the chaos, one repository at a time.
 </div>
